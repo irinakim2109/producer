@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(python3 -c ' *)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(git commit -m ' *)",
+      "Bash(LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 PYTHONIOENCODING=utf-8 python3 \"/private/tmp/claude-501/-Users-irina-Documents-projects-producer/59db19a1-84c9-4d15-94fc-aa83544a124f/scratchpad/make_docx.py\")"
     ]
   }
 }
