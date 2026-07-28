@@ -18,7 +18,7 @@
 
 ## Мои площадки
 
-- Instagram:
+- Instagram: @pro_irinakim (подключён в Metricool)
 - YouTube:
 - Telegram:
 
